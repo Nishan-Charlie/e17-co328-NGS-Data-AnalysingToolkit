@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/UOP-E17-G02/c297ee51-bf7d-4caa-a283-ad4da056fff9/759203a7-c99a-49e4-ac6e-a6347b939008/_apis/work/boardbadge/facadd92-6dcd-4dc9-808b-412464cba80b)](https://dev.azure.com/UOP-E17-G02/c297ee51-bf7d-4caa-a283-ad4da056fff9/_boards/board/t/759203a7-c99a-49e4-ac6e-a6347b939008/Microsoft.RequirementCategory)
 ___
 # Next Generation Sequencing Data Analysing Toolkit
 ___
